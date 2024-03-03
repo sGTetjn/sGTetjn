@@ -13,3 +13,4 @@
 ### CV
 - [Congreso Internacional de Neurociencias](https://drive.google.com/file/d/1lW79_YHpdhFSGOpOpzzMJH4LcXcNe7Q9/view?usp=drive_link)
 - [Simposio Neurociencias](https://drive.google.com/file/d/1fmxsDxWRde0dJkrC-ryjMi1u7Y6IRujW/view?usp=drive_link)
+- [Festival de Neurociencias](https://drive.google.com/file/d/1FGomsG3bj4VJqbuCBUWXs67hp_VRAX8k/view?usp=drive_link)
