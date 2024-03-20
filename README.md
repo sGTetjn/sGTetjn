@@ -6,11 +6,15 @@
 - 💞️ Excited to collaborate on projects that fuse machine learning and cognitive sciences.
 
 ## Programming Skills
-- Completed [CS50x](https://drive.google.com/file/d/1S9l5lMk2Wky3fzGn-bYYVLbaen8U-Dfz/view?usp=sharing) - Check out my foundational skills in computer science.
-- Completed [CS50AI](https://drive.google.com/file/d/191cgWzZ14In98ZfB6Uvbtw7F_HLny1L2/view?usp=sharing) - Delve into my understanding of artificial intelligence through this course.
-- Completed [Advanced Learning Algorithms](https://coursera.org/share/746447a808c294ec7ed594b38051a020) - Discover my grasp of advanced algorithms.
+- [CS50x](https://drive.google.com/file/d/1S9l5lMk2Wky3fzGn-bYYVLbaen8U-Dfz/view?usp=sharing)
+- [CS50AI](https://drive.google.com/file/d/191cgWzZ14In98ZfB6Uvbtw7F_HLny1L2/view?usp=sharing)
+- [Advanced Learning Algorithms](https://coursera.org/share/746447a808c294ec7ed594b38051a020)
+- CS50P Almost Done...
+- Unsupervised Learning Enrolled...
+- Supervised Machine Learning Plan to Take...
+- Introduction to Git and Github Plan To Take...
 
 ## CV Highlights
-- [Congreso Internacional de Neurociencias](https://drive.google.com/file/d/1lW79_YHpdhFSGOpOpzzMJH4LcXcNe7Q9/view?usp=sharing) - My poster presentation at the International Neuroscience Congress.
-- [Festival de Neurociencias](https://drive.google.com/file/d/1FGomsG3bj4VJqbuCBUWXs67hp_VRAX8k/view?usp=drive_link) - Contributor to the Neuroscience Festival.
-- [Simposio Neurociencias](https://drive.google.com/file/d/1fmxsDxWRde0dJkrC-ryjMi1u7Y6IRujW/view?usp=sharing) - Attendant.
+- [Congreso Internacional de Neurociencias](https://drive.google.com/file/d/1lW79_YHpdhFSGOpOpzzMJH4LcXcNe7Q9/view?usp=sharing)
+- [Festival de Neurociencias](https://drive.google.com/file/d/1FGomsG3bj4VJqbuCBUWXs67hp_VRAX8k/view?usp=drive_link)
+- [Simposio Neurociencias](https://drive.google.com/file/d/1fmxsDxWRde0dJkrC-ryjMi1u7Y6IRujW/view?usp=sharing)
