@@ -18,3 +18,4 @@
 - [Congreso Internacional de Neurociencias](https://drive.google.com/file/d/1lW79_YHpdhFSGOpOpzzMJH4LcXcNe7Q9/view?usp=sharing)
 - [Festival de Neurociencias](https://drive.google.com/file/d/1FGomsG3bj4VJqbuCBUWXs67hp_VRAX8k/view?usp=drive_link)
 - [Simposio Neurociencias](https://drive.google.com/file/d/1fmxsDxWRde0dJkrC-ryjMi1u7Y6IRujW/view?usp=sharing)
+- [Jornada de Orientacion Vocacional](https://drive.google.com/file/d/1JJgbS3zH_lzNq7ulg0HOdhpNhrhti5oD/view?usp=sharing)
