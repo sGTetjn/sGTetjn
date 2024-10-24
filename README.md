@@ -22,5 +22,5 @@
 - [Jornada de Orientacion Vocacional](https://drive.google.com/file/d/1JJgbS3zH_lzNq7ulg0HOdhpNhrhti5oD/view?usp=sharing)
 
 ## Languages
-- [IELTS Band 8.0](https://drive.google.com/file/d/1DHdqdrmWafg9WS0gCjeF3A1DNk8LBdG-/view?usp=sharing)
+- [IELTS Academic Band 8.0](https://drive.google.com/file/d/1DHdqdrmWafg9WS0gCjeF3A1DNk8LBdG-/view?usp=sharing)
 - DELF
