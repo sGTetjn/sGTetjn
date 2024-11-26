@@ -13,7 +13,6 @@
 - [Neuromatch Academy](https://drive.google.com/file/d/1sDszgcKXbxqfy4zoo-dUbNiKxYRaHJr-/view?usp=sharing)
 
 ## CV Highlights
-- [Congreso Internacional de Neurociencias](https://drive.google.com/file/d/1lW79_YHpdhFSGOpOpzzMJH4LcXcNe7Q9/view?usp=sharing)
 - [Festival de Neurociencias](https://drive.google.com/file/d/1FGomsG3bj4VJqbuCBUWXs67hp_VRAX8k/view?usp=drive_link)
 - [Simposio Neurociencias](https://drive.google.com/file/d/1fmxsDxWRde0dJkrC-ryjMi1u7Y6IRujW/view?usp=sharing)
 - [Jornada de Orientacion Vocacional](https://drive.google.com/file/d/1JJgbS3zH_lzNq7ulg0HOdhpNhrhti5oD/view?usp=sharing)
@@ -25,4 +24,4 @@
 
 ## Papers and posters
 - Díaz et al., (2024). Contextual Neural Dynamics During Time Perception in Primate Ventral Premotor Cortex. BioRxiv, 2024.10.03.616577. https://doi.org/10.1101/2024.10.03.616577
-- Fuentes, Valero. (2023). Modulation of VGLUT2 pathway in dorsal horn produces real time place preference. Presentado en el Segundo Congreso de Neurociencias, Facultad de Psicologia.
+- Fuentes, Valero. (2023). Modulation of VGLUT2 pathway in dorsal horn produces real time place preference. Presentado en el Segundo Congreso de Neurociencias, Facultad de Psicologia. [Reconocimiento](https://drive.google.com/file/d/1lW79_YHpdhFSGOpOpzzMJH4LcXcNe7Q9/view?usp=sharing).
