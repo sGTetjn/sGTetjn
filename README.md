@@ -11,9 +11,6 @@
 - [CS50AI](https://drive.google.com/file/d/191cgWzZ14In98ZfB6Uvbtw7F_HLny1L2/view?usp=sharing)
 - [Advanced Learning Algorithms](https://coursera.org/share/746447a808c294ec7ed594b38051a020)
 - [Neuromatch Academy](https://drive.google.com/file/d/1sDszgcKXbxqfy4zoo-dUbNiKxYRaHJr-/view?usp=sharing)
-- Unsupervised Learning Enrolled...
-- Supervised Machine Learning Plan to Take...
-- Introduction to Git and Github Plan To Take...
 
 ## CV Highlights
 - [Congreso Internacional de Neurociencias](https://drive.google.com/file/d/1lW79_YHpdhFSGOpOpzzMJH4LcXcNe7Q9/view?usp=sharing)
@@ -24,4 +21,4 @@
 
 ## Languages
 - [IELTS Academic Band 8.0](https://drive.google.com/file/d/1DHdqdrmWafg9WS0gCjeF3A1DNk8LBdG-/view?usp=sharing)
-- DELF
+- DELF (Frances A1)
