@@ -22,3 +22,7 @@
 ## Languages
 - [IELTS Academic Band 8.0](https://drive.google.com/file/d/1DHdqdrmWafg9WS0gCjeF3A1DNk8LBdG-/view?usp=sharing)
 - DELF (Frances A1)
+
+## Papers and posters
+- Díaz et al., (2024). Contextual Neural Dynamics During Time Perception in Primate Ventral Premotor Cortex. BioRxiv, 2024.10.03.616577. https://doi.org/10.1101/2024.10.03.616577
+- Fuentes, Valero. (2023). Modulation of VGLUT2 pathway in dorsal horn produces real time place preference. Presentado en el Segundo Congreso de Neurociencias, Facultad de Psicologia.
