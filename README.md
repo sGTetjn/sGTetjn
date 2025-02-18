@@ -23,5 +23,5 @@
 - [DELF (Frances A1)](https://drive.google.com/file/d/1setY25Wv88SOfycA0-pnJCIF1r8Ki_84/view?usp=sharing)
 
 ## Papers and posters
-- Díaz et al., (2024). Contextual Neural Dynamics During Time Perception in Primate Ventral Premotor Cortex. BioRxiv, 2024.10.03.616577. https://doi.org/10.1101/2024.10.03.616577
+- Díaz et al., (2025). Contextual neural dynamics during time perception in the primate ventral premotor cortex, Proc. Natl. Acad. Sci. U.S.A. 122 (6) e2420356122, https://doi.org/10.1073/pnas.2420356122.
 - Fuentes, Valero. (2023). Modulation of VGLUT2 pathway in dorsal horn produces real time place preference. Presentado en el Segundo Congreso de Neurociencias, Facultad de Psicologia. [Reconocimiento](https://drive.google.com/file/d/1lW79_YHpdhFSGOpOpzzMJH4LcXcNe7Q9/view?usp=sharing).
